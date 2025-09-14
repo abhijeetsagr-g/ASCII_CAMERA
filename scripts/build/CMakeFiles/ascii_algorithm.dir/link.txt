@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/ascii_algorithm.dir/link.d CMakeFiles/ascii_algorithm.dir/main.cpp.o -o ascii_algorithm

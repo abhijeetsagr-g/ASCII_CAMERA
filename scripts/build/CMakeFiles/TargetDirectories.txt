@@ -1,0 +1,3 @@
+/home/vansg/MyProjects/C++/ASCII_CAMERA/scripts/build/CMakeFiles/ascii_algorithm.dir
+/home/vansg/MyProjects/C++/ASCII_CAMERA/scripts/build/CMakeFiles/edit_cache.dir
+/home/vansg/MyProjects/C++/ASCII_CAMERA/scripts/build/CMakeFiles/rebuild_cache.dir
